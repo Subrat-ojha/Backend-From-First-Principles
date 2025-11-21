@@ -8,6 +8,6 @@ public class HomeController {
 	
 	@GetMapping("v1/home")
 	public String getHome() {
-		return "It is first backend return";
+		return "It is first backend returnn";
 	}
 }
